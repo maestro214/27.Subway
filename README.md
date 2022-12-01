@@ -1,8 +1,6 @@
-# aop-part5-chapter05
+# 지하철 도착 정보
 
-## ⚠️ 주의사항
-- `gradle.properties` 파일에 `공공 데이터(서울 지하철) API 키` 를 추가해야합니다.
-- [Firebase 프로젝트](https://console.firebase.google.com/u/0/) 에서 다운받은 `google-services.json` 파일을 추가해야합니다.
+## 이 챕터를 통해 배운 것
 
 ## 목차
 0. 인트로, 프로젝트 셋업
